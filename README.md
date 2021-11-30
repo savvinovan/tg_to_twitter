@@ -1,4 +1,5 @@
-make sure you created dev.yaml inside config directory
+### configuration
+make sure you created `dev.yaml` inside `config` directory
 
 `dev.yaml`
 ```yaml
@@ -7,3 +8,9 @@ CatFactURL: https://cat-fact.herokuapp.com/facts/random
 DogFactURL: https://dog-api.kinduff.com/api/facts
 ```
 
+
+### telegram bot commands
+
+`/catfact` gets random cats fact
+
+`/dogfact` gets random dogs fact
